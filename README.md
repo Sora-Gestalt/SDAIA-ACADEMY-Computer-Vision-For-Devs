@@ -51,6 +51,7 @@ The **Damaged Apple Detection System** is a computer vision and decoupled web se
 ├── main.py              # FastAPI server handling model inference & API endpoints
 ├── app.py               # Streamlit web application frontend
 ├── best.pt              # Trained YOLO model weights for apple damage detection
+├── train_plant_detector.ipynb # Note Book in google colab that the model has trained on
 ├── requirements.txt     # Python dependencies & package requirements
 ├── sample_images/       # Test image directory for validation & evaluation
 └── README.md            # Technical documentation & architectural rationale
