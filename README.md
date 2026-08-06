@@ -55,3 +55,20 @@ The **Damaged Apple Detection System** is a computer vision and decoupled web se
 ├── sample_images/       # Test image directory for validation & evaluation
 └── README.md            # Technical documentation & architectural rationale
 ```
+
+
+## Application Showcase Video
+
+
+
+https://github.com/user-attachments/assets/cda77e42-8867-4637-be99-53999c07f36a
+
+
+
+
+
+
+
+
+
+
